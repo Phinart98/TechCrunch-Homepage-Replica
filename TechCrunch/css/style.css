@@ -1,0 +1,156 @@
+
+*{
+  box-sizing: border-box;
+}
+
+#logo{
+  width: 100px;
+  height: 100px;
+  margin-left: 20px;
+}
+
+.main{
+  float: left;
+  width: 100%
+}
+
+#mainPic{
+  width: 100%;
+}
+
+#navigation{
+  height: 100%;
+  width: 15%;
+  float: left;
+}
+
+ul >li{
+  list-style-type: none;
+  font-size: large;
+  margin-bottom: 10px;
+  font-weight: normal;
+  font-family: sans-serif;
+  color: gray;
+}
+
+h1{
+  font-family: sans-serif;
+  font-size: 30pt;
+  font-weight: bold;
+}
+
+h3, h4, h2{
+  font-family: sans-serif;
+  font-weight: normal;
+  margin-top: 0px;
+  font-weight: bold;
+  font-size: 20pt;
+}
+
+#support, h5, h6{
+  font-family: sans-serif;
+  font-weight: normal;
+  color: gray;
+  margin-top: 0px;
+  font-weight: normal;
+  font-size: 15pt;
+}
+
+h6{
+  font-family: sans-serif;
+  font-weight: normal;
+  color: gray;
+  margin-top: 0;
+  font-weight: normal;
+  font-size: 10pt;
+}
+
+h5{
+  font-family: sans-serif;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+#Join{
+  color: yellow;
+}
+
+.headline{
+  float: left;
+  width: 100%;
+}
+
+.moreNews, .readMore{
+  float: left;
+  width: 100%;
+}
+
+#headlineAndMore{
+  height: 100%;
+  width: 50%;
+  float: left;
+}
+
+#otherNews{
+  height: 100%;
+  width: 35%;
+  float: left;
+  padding-left: 20px;
+}
+
+.moreNews{
+  margin-top: 20px;
+}
+
+.more{
+  float: left;
+  width: 50%;
+}
+
+#wonderPic{
+  float: right;
+}
+
+
+
+/* Clear fix hack */
+/* .clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+} */
+
+/* .clear {
+	clear: both;
+} */
+
+/******************************************
+BASE STYLES
+*******************************************/
+
+/* body {
+
+} */
+
+
+/******************************************
+LAYOUT
+*******************************************/
+/* header {
+
+}
+
+footer {
+
+} */
+
+/******************************************
+ ADDITIONAL STYLES
+*******************************************/
+
+
+
+
